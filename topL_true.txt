@@ -1,0 +1,10 @@
+OreVar,=,OreDef,(
+=,OreDef,(,1
+OreDef,(,1,)
+(,1,),"
+1,),",>
+(,1,),>
+),",>,test
+",>,test,<
+OreVar,=,x,OreVar
+=,x,OreVar,=
